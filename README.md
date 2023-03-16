@@ -112,11 +112,16 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
+![output](./dip%202.1.png)
+
+
 
 
 
 
 ### ii) Display the video
+
+![output](./dip%202.2.png)
 
 
 
@@ -125,6 +130,7 @@ cv2.destroyAllWindows()
 
 ### iii) Display the video by resizing the window
 
+![output](./dip%202.3.png)
 
 
 
@@ -132,7 +138,7 @@ cv2.destroyAllWindows()
 ### iv) Rotate and display the video
 
 
-
+![output](./dip%202.4.png)
 
 
 
