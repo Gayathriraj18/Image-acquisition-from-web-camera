@@ -106,18 +106,12 @@ while True:
         break
 img.release()
 cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
 ```
+
 ## Output
 
 ### i) Write the frame as JPG image
+
 
 
 
